@@ -1,3 +1,4 @@
+//Estas son las apis
 import axios from 'axios';
 
 const API_BASE_URL = 'http://TU_IP_LOCAL:5000/api'; 
